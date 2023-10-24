@@ -35,6 +35,7 @@ function App() {
   return (
     <div className="box">
       <p>aaaaaaa</p>
+      <img src="./image.png" alt="" />
     </div>
   )
 }
